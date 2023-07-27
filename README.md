@@ -1,2 +1,1 @@
-# eva2zbackend
-Backend of EVA2Z
+# laravel 10 basic admin
